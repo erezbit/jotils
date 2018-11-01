@@ -1,6 +1,6 @@
 /**
  * @description
- * random value from array
+ * random value from all values in array
  * @param {any[]} array an array to return random value
  * @returns {any} random value
  * @example
