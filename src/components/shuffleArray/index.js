@@ -1,6 +1,6 @@
 /**
  * @description
- * shuffles an array and returns an new array
+ * shuffles an array and returns a new array with different order
  * @param {any[]} array an array to shuffle
  * @returns {any[]} shuffled array
  * @example
